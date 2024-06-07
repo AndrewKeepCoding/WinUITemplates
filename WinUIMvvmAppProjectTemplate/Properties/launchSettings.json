@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIMvvmAppProjectTemplate (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIMvvmAppProjectTemplate (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

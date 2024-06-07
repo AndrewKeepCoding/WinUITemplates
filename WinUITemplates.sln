@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.34929.205
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinUIBlankAppProjectTemplate", "WinUIBlankAppProjectTemplate\WinUIBlankAppProjectTemplate.csproj", "{F815C0F2-A814-4D88-8E07-AEB1F80FF32C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUIMvvmAppProjectTemplate", "WinUIMvvmAppProjectTemplate\WinUIMvvmAppProjectTemplate.csproj", "{DE277D86-14A5-4DFC-9845-E7038FD721D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -33,6 +35,24 @@ Global
 		{F815C0F2-A814-4D88-8E07-AEB1F80FF32C}.Release|x86.ActiveCfg = Release|x86
 		{F815C0F2-A814-4D88-8E07-AEB1F80FF32C}.Release|x86.Build.0 = Release|x86
 		{F815C0F2-A814-4D88-8E07-AEB1F80FF32C}.Release|x86.Deploy.0 = Release|x86
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Debug|ARM64.Build.0 = Debug|ARM64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Debug|x64.ActiveCfg = Debug|x64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Debug|x64.Build.0 = Debug|x64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Debug|x64.Deploy.0 = Debug|x64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Debug|x86.ActiveCfg = Debug|x86
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Debug|x86.Build.0 = Debug|x86
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Debug|x86.Deploy.0 = Debug|x86
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Release|ARM64.ActiveCfg = Release|ARM64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Release|ARM64.Build.0 = Release|ARM64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Release|ARM64.Deploy.0 = Release|ARM64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Release|x64.ActiveCfg = Release|x64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Release|x64.Build.0 = Release|x64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Release|x64.Deploy.0 = Release|x64
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Release|x86.ActiveCfg = Release|x86
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Release|x86.Build.0 = Release|x86
+		{DE277D86-14A5-4DFC-9845-E7038FD721D9}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
