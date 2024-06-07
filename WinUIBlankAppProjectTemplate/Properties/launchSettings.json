@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIBlankAppProjectTemplate (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIBlankAppProjectTemplate (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
